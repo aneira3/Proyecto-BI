@@ -1,0 +1,61 @@
+# Entorno virtual
+venv_proyecto/
+venv/
+env/
+.env
+
+# Archivos de Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Archivos de sistema
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Archivos temporales
+*.tmp
+*.temp
+*.log
+
+# Archivos de modelos entrenados (opcional, comentar si quieres incluirlos)
+# *.pkl
+# *.joblib
+# *.model
+
+# Archivos de configuración local
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Archivos de backup
+*~
+*.bak
+*.backup
